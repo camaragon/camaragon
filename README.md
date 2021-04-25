@@ -18,6 +18,8 @@
 I love to affect others with contagious positivity in hopes that they are inspired to spread some themselves.
 I strive to consistently learn and push myself to grow in to a better version of myself. </p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=teezer109&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 **camaragon/camaragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
