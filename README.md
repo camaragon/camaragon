@@ -1,5 +1,5 @@
 <h1 align="center">👋🏼 Welcome 👋🏼</h1>
-<h2>What a time... to be alive! ☀️</h2>
+<h2 align="center">What a time... to be alive! ☀️</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/camaragon/" target="_blank">
