@@ -1,5 +1,5 @@
 <h1 align="center">👋🏼 Welcome 👋🏼</h1>
-<h2 align="center">What a time... to be alive! ☀️</h2>
+<h2 align="center">☀️ What a time... to be alive! ☀️</h2>
 <h3 align="center">Turing School of Software and Design Alum 2010FE</h3>
 
 <p align="center">
