@@ -1,7 +1,7 @@
-## 👋🏼 This is where the magic happens... ✨
+## You've come to the right place! 👋🏼
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camaragon&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=camaragon&show_icons=true&theme=synthwave/>
 </p>
 
 
