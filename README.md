@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">☀️ What a time... to be alive! ☀️<br> <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="100" height="100"></h1>
+<h1 align="center">☀️ What a time... to be alive! ☀️</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/camaragon/" target="_blank">
@@ -46,6 +46,9 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
     <img src=" https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="100" height="100">
 </p>
 
 
