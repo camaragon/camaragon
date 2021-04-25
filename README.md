@@ -4,8 +4,6 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
 <h2 align="center">☀️ What a time... to be alive! ☀️</h2>
 <h3 align="center">Turing School of Software and Design Alum 2010FE</h3>
 
