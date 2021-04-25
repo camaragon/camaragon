@@ -48,7 +48,7 @@
     <img src=" https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="200" height="200">
+  <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="150" height="150">
 </p>
 
 
