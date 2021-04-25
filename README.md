@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center"><img src="https://media.giphy.com/media/fwR54Wq7dYu9VXKiAF/giphy.gif" width="25" height="25"> What a time... to be alive! <img src="https://media.giphy.com/media/fwR54Wq7dYu9VXKiAF/giphy.gif" width="25" height="25"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/fwR54Wq7dYu9VXKiAF/giphy.gif" width="30" height="30"> What a time... to be alive! <img src="https://media.giphy.com/media/fwR54Wq7dYu9VXKiAF/giphy.gif" width="30" height="30"></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/camaragon/" target="_blank">
@@ -48,7 +48,7 @@
     <img src=" https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="100" height="100">
+  <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="150" height="150">
 </p>
 
 
