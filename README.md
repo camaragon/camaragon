@@ -4,6 +4,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<a align="center" href="mailto:caragon4695@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=camaragon&show_icons=true&theme=tokyonight" />
 </p>
