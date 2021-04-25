@@ -1,5 +1,6 @@
 <h1 align="center">👋🏼 Welcome 👋🏼</h1>
 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/camaragon/">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=camaragon&show_icons=true&theme=tokyonight" />
