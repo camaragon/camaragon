@@ -1,6 +1,9 @@
-### Hi there 👋
+## 👋🏼 This is where the magic happens... ✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camaragon&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=camaragon&show_icons=true"/>
+</p>
+
 
 <!--
 **camaragon/camaragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
