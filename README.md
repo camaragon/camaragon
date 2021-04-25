@@ -47,10 +47,10 @@
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
     <img src=" https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="150" height="150">
 </p>
-
 
 <!--
 **camaragon/camaragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
