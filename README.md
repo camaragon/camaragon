@@ -1,6 +1,4 @@
-## You've come to the right place! 👋🏼
-
-<h1 align="center"> Howdy 👏🏼</h1>
+<h1 align="center">👋🏼 Welcome 👋🏼</h1>
 
 
 <p align="center">
