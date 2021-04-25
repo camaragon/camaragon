@@ -14,9 +14,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=camaragon&show_icons=true&theme=tokyonight" />
 </p>
 
-<p>Driven by a passion to develop outstanding UI for the future of applications by writing clean, effective and well-tested code.
-I love to affect others with contagious positivity in hopes that they are inspired to spread some themselves.
-I strive to consistently learn and push myself to grow in to a better version of myself. </p>
+<p align="center">Driven by a passion to develop outstanding UI for the future of applications by writing clean, effective and well-tested code.</p>
+<p align="center">I love to affect others with contagious positivity in hopes that they are inspired to spread some themselves.</p>
+<p align="center">I strive to consistently learn and push myself to grow in to a better version of myself.</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile" target="_blank" rel="noopener noreferrer">
