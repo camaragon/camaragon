@@ -1,5 +1,6 @@
 <h1 align="center">👋🏼 Welcome 👋🏼</h1>
 <h2 align="center">What a time... to be alive! ☀️</h2>
+<h3 align="center">Turing School of Software and Design Alum 2010FE</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/camaragon/" target="_blank">
@@ -14,7 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=camaragon&show_icons=true&theme=tokyonight" />
 </p>
 
-<h3 align="center">Turing School of Software and Design Alum 2010FE</h3>
 <p align="center">Driven by a passion to develop outstanding UI for the future of applications by writing clean, effective and well-tested code.</p>
 <p align="center">I love to affect others with contagious positivity in hopes that they are inspired to spread some themselves.</p>
 <p align="center">I strive to consistently gain more knowledge and grow in to a better version of myself everyday.</p>
@@ -43,7 +43,6 @@
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
     <img src=" https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
-[![Deployment Status](https://img.shields.io/endpoint?url=https://devx.sh/api/deployment)](https://devx.sh)
 
 
 <!--
