@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">☀️ What a time... to be alive! ☀️</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/fwR54Wq7dYu9VXKiAF/giphy.gif" width="25" height="25"> What a time... to be alive! <img src="https://media.giphy.com/media/fwR54Wq7dYu9VXKiAF/giphy.gif" width="25" height="25"></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/camaragon/" target="_blank">
