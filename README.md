@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center"><img src="https://media.giphy.com/media/YqL7wobl36TXvw4SxO/giphy.gif" width="30" height="30"> What a time... to be alive! <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="30" height="30"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/YqL7wobl36TXvw4SxO/giphy.gif" width="50" height="50"> What a time... to be alive! <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="30" height="30"></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/camaragon/" target="_blank">
