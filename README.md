@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">☀️ What a time... to be alive! ☀️</h1>
+<h1 align="center">☀️ What a time... to be alive! ☀️</h1><img src="https://media.giphy.com/media/fwR54Wq7dYu9VXKiAF/giphy.gif">
 <h2 align="center">Turing School of Software and Design Alum 2010FE</h2>
 
 <p align="center">
