@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Frontend+Focused+Software+Developer"
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Frontend+Focused+Software+Developer">
   </a>
 </p>
 
-<h2 align="center">☀️ What a time... to be alive! ☀️</h2>
-<h3 align="center">Turing School of Software and Design Alum 2010FE</h3>
+<h1 align="center">☀️ What a time... to be alive! ☀️</h1>
+<h2 align="center">Turing School of Software and Design Alum 2010FE</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/camaragon/" target="_blank">
@@ -20,6 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=camaragon&show_icons=true&theme=tokyonight" />
 </p>
 
+<h3>Bio</h3>
 <p align="center">Driven by a passion to develop outstanding UI for the future of applications by writing clean, effective and well-tested code.</p>
 <p align="center">I love to affect others with contagious positivity in hopes that they are inspired to spread some themselves.</p>
 <p align="center">I strive to consistently gain more knowledge and grow in to a better version of myself everyday.</p>
