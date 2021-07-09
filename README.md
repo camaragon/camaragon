@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Software+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Living+Everyday+to+the+Fullest!">
   </a>
 </p>
 
-<h1 align="center"><img src="https://media.giphy.com/media/fwR54Wq7dYu9VXKiAF/giphy.gif" width="30" height="30"> Living Everday to the Fullest <img src="https://media.giphy.com/media/fwR54Wq7dYu9VXKiAF/giphy.gif" width="30" height="30"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/fwR54Wq7dYu9VXKiAF/giphy.gif" width="30" height="30"> Welcome to my GitHub Profile <img src="https://media.giphy.com/media/fwR54Wq7dYu9VXKiAF/giphy.gif" width="30" height="30"></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/camaragon/" target="_blank">
