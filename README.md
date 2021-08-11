@@ -15,8 +15,10 @@
   </a>
 </p>
 
+<h3 align="center">Turing School of Software and Design Alum 2010FE</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camaragon&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=camaragon&show_icons=true&theme=blue-green" />
 </p>
 
 <p align="center">Driven by a passion to develop outstanding UI for the future of applications by writing clean, effective and well-tested code.</p>
