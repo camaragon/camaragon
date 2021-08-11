@@ -49,6 +49,7 @@
     <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
     <img src="https://img.shields.io/badge/cypress%20-%23404d59.svg?&style=for-the-badge&logo=Cypress&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jest%20-%23231123.svg?&style=for-the-badge&logo=jest&logoColor=%23E34F26">
     <img src="https://img.shields.io/badge/chai%20-%23007ACC.svg?&style=for-the-badge&logo=chai&logoColor=white" />
     <img src="https://img.shields.io/badge/mocha%20-%23593d88.svg?&style=for-the-badge&logo=mocha&logoColor=white" />
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
