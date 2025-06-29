@@ -4,8 +4,6 @@
   </a>
 </p>
 
-<h1 align="center"><img src="https://media.giphy.com/media/fwR54Wq7dYu9VXKiAF/giphy.gif" width="30" height="30"> Welcome to my GitHub Profile <img src="https://media.giphy.com/media/fwR54Wq7dYu9VXKiAF/giphy.gif" width="30" height="30"></h1>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/camaragon/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -15,11 +13,11 @@
   </a>
 </p>
 
-<h3 align="center">Turing School of Software and Design Alum 2010FE</h3>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=camaragon&show_icons=true&theme=blue-green" />
 </p>
+
+<h3 align="center">Turing School of Software and Design Alum 2010FE</h3>
 
 <p align="center">Driven by a passion to develop outstanding UI for the future of applications by writing clean, effective and well-tested code.</p>
 <p align="center">I love to affect others with contagious positivity in hopes that they are inspired to spread some themselves.</p>
