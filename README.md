@@ -13,9 +13,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=camaragon&show_icons=true&theme=blue-green" />
-</p>
+</p> -->
 
 <h3 align="center">Turing School of Software and Design Alum 2010FE</h3>
 
