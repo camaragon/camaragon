@@ -3,7 +3,10 @@
 # Cameron Aragon
 
 **Fullstack Engineer** · **Blockchain Developer** · **Colorado Native**
-<h4 align="center">Turing School of Software and Design Alum 2010FE</h4>
+<h5 align="center">Turing School of Software and Design Alum 2010FE</h5>
+<h5 align="center">Polkadot Blockchain Academy, Protocol Track - Lucerne, Switzerland</h5>
+
+
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camaragon/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caragon4695@gmail.com)
