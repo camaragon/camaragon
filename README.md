@@ -3,8 +3,10 @@
 # Cameron Aragon
 
 **Fullstack Engineer** · **Blockchain Developer** · **Colorado Native**
-<h5 align="center">Turing School of Software and Design Alum 2010FE</h5>
-<h5 align="center">Polkadot Blockchain Academy, Protocol Track - Lucerne, Switzerland</h5>
+<br>
+<sub>Turing School of Software and Design, Alum 2010FE · Denver, Colorado</sub>
+<br>
+<sub>Polkadot Blockchain Academy, Protocol Track · Lucerne, Switzerland</sub>
 
 
 
