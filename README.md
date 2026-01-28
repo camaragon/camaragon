@@ -3,10 +3,11 @@
 # Cameron Aragon
 
 **Fullstack Engineer** · **Blockchain Developer** · **Colorado Native**
+<br></br>
+Turing School of Software and Design, Alum 2010FE · Denver, Colorado
 <br>
-<sub>Turing School of Software and Design, Alum 2010FE · Denver, Colorado</sub>
+Polkadot Blockchain Academy, Protocol Track · Lucerne, Switzerland
 <br>
-<sub>Polkadot Blockchain Academy, Protocol Track · Lucerne, Switzerland</sub>
 
 
 
@@ -27,6 +28,6 @@
 
 <br>
 
-*Live every day to the fullest, it's over before you know it.*
+*Live every day to the fullest; it's over before you know it.*
 
 </div>
