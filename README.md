@@ -2,7 +2,7 @@
 
 # Cameron Aragon
 
-**Fullstack Engineer** · **Web3 Developer** · **Colorado Native**
+**Fullstack/Web3** · **Blockchain/Protocol** · **Colorado Native**
 <br></br>
 Turing School of Software and Design, Alum 2010FE · Denver, Colorado
 <br>
