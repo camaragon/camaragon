@@ -20,13 +20,9 @@ Polkadot Blockchain Academy, Protocol Track · Lucerne, Switzerland
 
 <div align="center">
 
-<img src="https://github-readme-stats-one-alpha-28.vercel.app/api?username=camaragon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats">
-
-<br><br>
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=teezer109&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-<br>
+<br><br>
 
 *Live every day to the fullest; it's over before you know it.*
 
