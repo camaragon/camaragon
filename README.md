@@ -2,7 +2,7 @@
 
 # Cameron Aragon
 
-**Software Developer** · **Colorado Native**
+**Product Engineer** · **Colorado Native**
 <br></br>
 Turing School of Software and Design, Alum 2010FE · Denver, Colorado
 <br>
